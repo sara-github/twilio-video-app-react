@@ -1,0 +1,10 @@
+{
+  "Agent": {
+    "agent_id": "string",
+    "name": "string",
+    "email": "string",
+    "createdAt": "date",
+    "teamName": "string",
+    "groupNumber": "int"
+  }
+}
